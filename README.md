@@ -15,10 +15,8 @@ Built an application using Agile. Developed a scalable serverless platform using
 - **npm**, **Git**, and an **IDE** of your choice.
 
 ### Setup
-1. Clone the repository:
-   ```bash
-   git clone https://git-codecommit.us-east-2.amazonaws.com/v1/repos/aggie24-cloudrus
-   cd aggie24-cloudrus
+1. Clone the repository:CaseCompetitionManagement
+
 2.Install dependencies:
 npm install aws botocore3
 3.Set up environment variables in a .env file (API keys, database connection strings, etc.).
